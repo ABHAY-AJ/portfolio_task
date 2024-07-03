@@ -31,13 +31,13 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "CO-ORDINATOR|TEAMTECHATHON,VaishCollege of Engineering",
+    title: "CO-ORDINATOR",
     description:
       "Organized a teachathon/hackathon event as a coordinator, working closely with team members.",
     url: "https://www.linkedin.com/posts/activity-7056587850082844672-vD0G?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: " Teachathon/Hackathon Success",
+    title: "Teachathon/Hackathon",
     description:
       " Placed second in Teachathon/Hackathon event, demonstrating strong skills in teamwork and problem-solving",
     url: "https://www.linkedin.com/posts/activity-7056587850082844672-vD0G?utm_source=share&utm_medium=member_desktop",
