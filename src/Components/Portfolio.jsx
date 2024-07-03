@@ -52,7 +52,7 @@ const projectList = [
     title: "TECHNICAL",
     description:
       "Successful Completion of Virtual Internship Program by JP Morgan Chase&Co|",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://drive.google.com/file/d/1P9pqz1V1VA_9Xyu3_heCgbiu0scJEl8P/view?usp=sharing",
   },
 ];
 
